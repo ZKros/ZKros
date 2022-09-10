@@ -3,7 +3,6 @@
 
 - 🔭 Hoje estou trabalhando com Desenvolvimento Web
 - 🌱 Estudando Angular/Typescript
-- 😄 Pronouns: ele/dele
 - ✉ Contate-me no e-mail: danielsilva25@live.com
 <div align="center">
   <a href="https://github.com/ZKros">
